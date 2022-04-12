@@ -1,0 +1,4 @@
+AD9833.c:16:6:writeSPI	24	static,ignoring_inline_asm
+AD9833.c:31:6:AD9833_SetWave	16	static
+AD9833.c:57:6:AD9833_SetWaveData	24	static,ignoring_inline_asm
+AD9833.c:90:6:AD9833_Init	24	static
